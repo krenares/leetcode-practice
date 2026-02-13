@@ -1,6 +1,7 @@
 # leetcode-practice
 
 This repository contains my solutions to common data structures and algorithm problems
+
 frequently asked in software engineering interviews.
 
 ## Goals
