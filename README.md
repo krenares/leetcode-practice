@@ -13,7 +13,6 @@ frequently asked in software engineering interviews.
 - Identify common interview patterns
 
 
-
 ## Topics Covered
 - Arrays & Strings
 - Hash Maps
